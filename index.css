@@ -31,3 +31,11 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+/* Style that first letter! */
+.first-letter {
+
+  color: rgb(66, 135, 245);
+  font-size: 55px;
+  line-height: 42px;
+}
