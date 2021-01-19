@@ -86,3 +86,22 @@ btn:active {
   }
 }
 
+a.linktotop{
+
+  font-weight: 700;
+  /* text-decoration: underline; */
+  color:cornflowerblue;
+  text-transform: lowercase;
+  font-style:italic;
+  background-color: #37fcf8;  
+  padding: 1px;
+
+}
+
+.titleColor{
+
+  color:yellow;
+
+
+}
+
