@@ -30,6 +30,12 @@
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
+   background: #fe8c00;
+   /* fallback for old browsers */
+   background: -webkit-linear-gradient(to top, #fe8c00, #f83600);
+   /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to top, #fe8c00, #f83600);
+   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 footer p {
@@ -94,10 +100,10 @@ a.linktotop{
 
   font-weight: 700;
   /* text-decoration: underline; */
-  color:cornflowerblue;
+  color:rgb(231, 54, 0);
   text-transform: lowercase;
   font-style:italic;
-  background-color: #37fcf8;  
+  background-color: #f9fc37;  
   padding: 1px;
 
 }
